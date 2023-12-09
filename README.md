@@ -6,7 +6,7 @@ This mini_project  demonstrates the Transaction amount prediction for different 
 
 You are provided with a comprehensive dataset from a leading fintech company, capturing a detailed record of client transactions over a period of one year. This dataset presents a unique opportunity to explore, analyze, and forecast financial behaviors in a real-world context.
 
-this data contains 4 column : 
+this data contains 4 columns : 
 
 **Date**: The exact date and time when the transaction occurred, providing a granular view of transaction patterns over time.
 **Id_compte**: A unique identifier for each client account, allowing analysis of transactions on an account-by-account basis.
